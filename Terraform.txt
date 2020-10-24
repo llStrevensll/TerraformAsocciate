@@ -22,7 +22,8 @@ command is used to create an execution plan, terraform performs a refresh, unles
 
 This command is a convenient way to check whether the execution plan for a set of changes matches your expectations without making any changes to real resources or to the state.
 --------------------
-
+Provider
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 provider "aws" {
   region = "us-east-1"
 }
