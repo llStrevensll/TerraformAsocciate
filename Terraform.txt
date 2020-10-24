@@ -28,6 +28,7 @@ provider "aws" {
   region = "us-east-1"
 }
 ---
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
 resource block
 resource "provider_type" "name" {
   config
