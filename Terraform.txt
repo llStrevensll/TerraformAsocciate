@@ -41,3 +41,8 @@ Command used to apply the changes required to reach the desired state of the con
 
 terraform destroy
 Command is used to destroy the Terraform-managed infrastructure
+
+==============================================
+Resource
+Sintax names
+https://www.terraform.io/docs/configuration/resources.html
