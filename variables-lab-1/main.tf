@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "test_instance" {
-    ami = "ami-0947d2ba12ee1ff75"
+    ami = var.image_id
     instance_type = var.instance_type
     tags = {
         Name = "test_instance_1"
@@ -12,7 +12,7 @@ resource "aws_instance" "test_instance" {
 }
 
 resource "aws_instance" "test_instance_2" {
-    ami = "ami-0947d2ba12ee1ff75"
+    ami = var.image_id
     instance_type = var.instance_type
     tags = {
         Name = "test_instance_2"
