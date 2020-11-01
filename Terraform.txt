@@ -46,3 +46,8 @@ Command is used to destroy the Terraform-managed infrastructure
 Resource
 Sintax names
 https://www.terraform.io/docs/configuration/resources.html
+
+
+==============================================
+Variables
+https://www.terraform.io/docs/configuration/variables.html
