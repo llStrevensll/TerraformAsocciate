@@ -51,3 +51,5 @@ https://www.terraform.io/docs/configuration/resources.html
 ==============================================
 Variables
 https://www.terraform.io/docs/configuration/variables.html
+How to see environment variables
+env --

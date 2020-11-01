@@ -1,0 +1,7 @@
+Windows Powershell
+$Env:TF_VAR_instance_type="t2.micro"
+$Env:TF_VAR_image_id="ami-0947d2ba12ee1ff75"
+
+Linux:
+export TF_VAR_instance_type=t2.micro
+export TF_VAR_image_id=ami-0947d2ba12ee1ff75
