@@ -53,3 +53,8 @@ Variables
 https://www.terraform.io/docs/configuration/variables.html
 How to see environment variables
 env --
+
+
+---
+describe image aws
+aws ec2 describe-images --owners amazon --image-ids <image-id>
