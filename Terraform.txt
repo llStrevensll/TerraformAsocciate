@@ -71,3 +71,5 @@ https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/volu
 
 Cloud Watch
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/cloudwatch_metric_alarm
+AWS:
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/aws-services-cloudwatch-metrics.html
