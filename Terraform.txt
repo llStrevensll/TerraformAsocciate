@@ -108,3 +108,7 @@ The terraform validate command validates the configuration files in a directory,
 terraform fmt
 The terraform fmt command is used to rewrite Terraform configuration files to a canonical format and style. This command applies a subset of the Terraform language style conventions, along with other minor adjustments for readability.
 
+===============
+Terraform Cloud
+https://www.terraform.io/docs/backends/types/remote.html
+
