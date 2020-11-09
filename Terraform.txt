@@ -109,6 +109,23 @@ terraform fmt
 The terraform fmt command is used to rewrite Terraform configuration files to a canonical format and style. This command applies a subset of the Terraform language style conventions, along with other minor adjustments for readability.
 
 ===============
-Terraform Cloud
+Terraform Cloud remote backend
 https://www.terraform.io/docs/backends/types/remote.html
+
+
+terraform login
+--Generate token
+
+push to repository
+after, you can see "runs" in terraform cloud
+
+
+------
+Users, Teams, Organizations
+--Permissions
+https://www.terraform.io/docs/cloud/users-teams-organizations/permissions.html
+
+------
+Sentinel
+https://www.terraform.io/docs/cloud/sentinel/index.html
 
